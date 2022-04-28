@@ -1,3 +1,5 @@
 Leo siqueira;pessoa1@gmail.com;50
 julia rufler;pessoa2@gmail.com;30
 marceli pprt;pessoa3@gmail.com;12
+
+jose pprt;pessoa3@gmail.com;14
